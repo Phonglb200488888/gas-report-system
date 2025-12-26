@@ -274,6 +274,7 @@ Nhập khí: ${calculated.nhapKhi.toFixed(1)}`;
             <h1 className="text-3xl font-bold">Báo cáo Bóng Gas</h1>
           </div>
           <p className="text-blue-300">Quản lý nhanh chóng & chính xác</p>
+          <p className="text-blue-300">Make by SIÊU CODE HẾT THỜI SWEETCODE</p>
         </div>
 
         {/* Tab Navigation */}
